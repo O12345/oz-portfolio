@@ -1,0 +1,27 @@
+section {
+    width: 100vw;
+    max-width: 1200px;
+    height: 65vh;
+    min-height: 30vh;
+    margin: 0 auto;
+}
+h5 {
+    padding: 15px;
+    width: 100vw;
+    text-align: center;
+}
+.box {
+    border: 1px solid rgb(130, 130, 130);
+    border-radius: 7px;
+    /* text-align: center; */
+    margin: 20px 50px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+footer {
+    padding: 35px;
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+}
